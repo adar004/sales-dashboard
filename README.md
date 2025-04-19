@@ -1,6 +1,6 @@
 # 🌍 Coffee Sales Analysis Dashboard
 
-This project analyzes global sales performance using Excel. It includes dynamic charts, top customer insights, country-level sales breakdowns, and a visually interactive dashboard.
+This project analyzes global coffee sales performance using Excel. It includes dynamic charts, top customer insights, country-level sales breakdowns, and a visually interactive dashboard.
 
 ## 📁 Dataset Contents
 
